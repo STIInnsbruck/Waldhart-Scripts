@@ -26,7 +26,7 @@ $.each(companies,function(i,v){
 	var item = {};
 	item["@type"] = "WebSite";
 	item["name"] = v.replace("&nbsp;"," ");
-	item["url"] = links[0];
+	item["url"] = links[i];
 	eachitem.item = item;
 	main["itemListElement"].push(eachitem);
 })
