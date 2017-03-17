@@ -5,4 +5,4 @@ IMPORTANT NOTES AND REQUIREMENTS
 
 - Blog.js is the web page that has list of blogs with titles and small description. There are 10 pages like this. Script should be executed in every page. Output should be saved.(Related website: Waldhart)
 
-- BlogPosting.js is the transition js that has been used in Loop-BlogPosting.js. If you want to try it, you can go one of the blog pages and try the output.
+- BlogPosting.js is the transition js that has been used in Loop-BlogPosting.js. If you want to try it, you can go one of the blog pages and try the output.(Related website: Waldhart)
